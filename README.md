@@ -1,2 +1,1 @@
-# test_py1010
-Testing ifm kurs
+Dette er en readme-filen til repo-en test_py1010.
